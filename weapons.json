@@ -1,0 +1,643 @@
+[
+  {
+    "name": "AKM",
+    "price": 1289,
+    "image": "/guns/akm.png",
+    "skins": [
+      "/guns/akm_skin1.png",
+      "/guns/akm_skin2.png",
+      "/guns/akm_skin3.png"
+    ],
+    "details": {
+      "damage": "47",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "M16A4",
+    "price": 1500,
+    "image": "/guns/m16a4.png",
+    "details": {
+      "damage": "43",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "SCAR-L",
+    "price": 2700,
+    "image": "/guns/scar_l.png",
+    "skins": [
+      "/guns/scar_l_skin1.png"
+    ],
+    "details": {
+      "damage": "43",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "M416",
+    "price": 1699,
+    "image": "/guns/m416.png",
+    "skins": [
+      "/guns/m416_skin1.png"
+    ],
+    "details": {
+      "damage": "43",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "Groza",
+    "price": 1499,
+    "image": "/guns/groza.png",
+    "details": {
+      "damage": "49",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "AUG-A3",
+    "price": 2300,
+    "image": "/guns/aug_a3.png",
+    "details": {
+      "damage": "43",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "QBZ",
+    "price": 1099,
+    "image": "/guns/qbz.png",
+    "details": {
+      "damage": "43",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "M762",
+    "price": 2999,
+    "image": "/guns/beryl_m762.png",
+    "details": {
+      "damage": "46",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "M249",
+    "price": 4087,
+    "image": "/guns/m249.png",
+    "details": {
+      "damage": "45",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "DP-28",
+    "price": 7150,
+    "image": "/guns/dp28.png",
+    "details": {
+      "damage": "51",
+      "type": "LMG"
+    }
+  },
+  {
+    "name": "MK47-Mutant",
+    "price": 1430,
+    "image": "/guns/mk47_mutant.png",
+    "details": {
+      "damage": "49",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "G36C",
+    "price": 530,
+    "image": "/guns/g36c.png",
+    "details": {
+      "damage": "41",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "Kar98K",
+    "price": 790,
+    "image": "/guns/kar98k.png",
+    "details": {
+      "damage": "72",
+      "type": "SR"
+    }
+  },
+  {
+    "name": "M24",
+    "price": 4000,
+    "image": "/guns/m24.png",
+    "details": {
+      "damage": "82",
+      "type": "SR"
+    }
+  },
+  {
+    "name": "AWM",
+    "price": 4500,
+    "image": "/guns/awm.png",
+    "details": {
+      "damage": "132",
+      "type": "SR"
+    }
+  },
+  {
+    "name": "Win94",
+    "price": 1342,
+    "image": "/guns/win94.png",
+    "details": {
+      "damage": "66",
+      "type": "SR"
+    }
+  },
+  {
+    "name": "SKS",
+    "price": 450,
+    "image": "/guns/sks.png",
+    "details": {
+      "damage": "53",
+      "type": "SR"
+    }
+  },
+  {
+    "name": "VSS",
+    "price": 450,
+    "image": "/guns/vss.png",
+    "details": {
+      "damage": "41",
+      "type": "SR"
+    }
+  },
+  {
+    "name": "Mini 14",
+    "price": 650,
+    "image": "/guns/mini14.png",
+    "details": {
+      "damage": "41",
+      "type": "SR"
+    }
+  },
+  {
+    "name": "MK14",
+    "price": 4600,
+    "image": "/guns/mk14.png",
+    "details": {
+      "damage": "61",
+      "type": "SR"
+    }
+  },
+  {
+    "name": "SLR",
+    "price": 2500,
+    "image": "/guns/slr.png",
+    "details": {
+      "damage": "58",
+      "type": "SR"
+    }
+  },
+  {
+    "name": "UZI",
+    "price": 1109,
+    "image": "/guns/micro_uzi.png",
+    "details": {
+      "damage": "26",
+      "type": "SMG"
+    }
+  },
+  {
+    "name": "UMP45",
+    "price": 285,
+    "image": "/guns/ump45.png",
+    "details": {
+      "damage": "41",
+      "type": "SMG"
+    }
+  },
+  {
+    "name": "Vector",
+    "price": 1500,
+    "image": "/guns/vector.png",
+    "details": {
+      "damage": "34",
+      "type": "SMG"
+    }
+  },
+  {
+    "name": "Thompson SMG",
+    "price": 1970,
+    "image": "/guns/tommy_gun.png",
+    "details": {
+      "damage": "40",
+      "type": "SMG"
+    }
+  },
+  {
+    "name": "MP5K",
+    "price": 850,
+    "image": "/guns/mp5k.png",
+    "details": {
+      "damage": "33",
+      "type": "SMG"
+    }
+  },
+  {
+    "name": "PP-19 Bizon",
+    "price": 1200,
+    "image": "/guns/pp19_bizon.png",
+    "details": {
+      "damage": "35",
+      "type": "SMG"
+    }
+  },
+  {
+    "name": "P90",
+    "price": 1800,
+    "image": "/guns/p90.png",
+    "details": {
+      "damage": "30",
+      "type": "SMG"
+    }
+  },
+  {
+    "name": "Skorpion",
+    "price": 660,
+    "image": "/guns/skorpion.png",
+    "details": {
+      "damage": "22",
+      "type": "SMG"
+    }
+  },
+  {
+    "name": "Desert Eagle",
+    "price": 1500,
+    "image": "/guns/deagle.png",
+    "details": {
+      "damage": "62",
+      "type": "Pistol"
+    }
+  },
+  {
+    "name": "Lynx AMR",
+    "price": 12000,
+    "image": "/guns/lynx_amr.png",
+    "details": {
+      "damage": "145",
+      "type": "SR"
+    }
+  },
+  {
+    "name": "ACE32",
+    "price": 1200,
+    "image": "/guns/ace32.png",
+    "details": {
+      "damage": "43",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "JS9",
+    "price": 771,
+    "image": "/guns/js9.png",
+    "details": {
+      "damage": "35",
+      "type": "SMG"
+    }
+  },
+  {
+    "name": "M1911",
+    "price": 600,
+    "image": "/guns/p1911.png",
+    "details": {
+      "damage": "41",
+      "type": "Pistol"
+    }
+  },
+  {
+    "name": "Mosin Nagant",
+    "price": 350,
+    "image": "/guns/mosin_nagant.png",
+    "details": {
+      "damage": "79",
+      "type": "SR"
+    }
+  },
+  {
+    "name": "P92",
+    "price": 500,
+    "image": "/guns/p92.png",
+    "details": {
+      "damage": "35",
+      "type": "Pistol"
+    }
+  },
+  {
+    "name": "FAMAS G2",
+    "price": 3000,
+    "image": "/guns/famas_g2.png",
+    "details": {
+      "damage": "41",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "Glock 18C",
+    "price": 600,
+    "image": "/guns/p18c.png",
+    "details": {
+      "damage": "23",
+      "type": "Pistol"
+    }
+  },
+  {
+    "name": "MP9",
+    "price": 1800,
+    "image": "/guns/mp9.png",
+    "details": {
+      "damage": "33",
+      "type": "SMG"
+    }
+  },
+  {
+    "name": "Dragunov SVD",
+    "price": 4200,
+    "image": "/guns/dragunov.png",
+    "details": {
+      "damage": "61",
+      "type": "SR"
+    }
+  },
+  {
+    "name": "K2",
+    "price": 745,
+    "image": "/guns/k2.png",
+    "details": {
+      "damage": "41",
+      "type": "AR"
+    }
+  },
+  {
+    "name": "Mk12",
+    "price": 1750,
+    "image": "/guns/mk12.png",
+    "details": {
+      "damage": "50",
+      "type": "DMR"
+    }
+  },
+  {
+    "name": "QBU 88",
+    "price": 4999,
+    "image": "/guns/qbu88.png",
+    "details": {
+      "damage": "48",
+      "type": "DMR"
+    }
+  },
+  {
+    "name": "O12",
+    "price": 1250,
+    "image": "/guns/o12.png",
+    "details": {
+      "damage": "100",
+      "type": "Shotgun"
+    }
+  },
+  {
+    "name": "DBS",
+    "price": 1395,
+    "image": "/guns/dbs.png",
+    "details": {
+      "damage": "26",
+      "type": "Shotgun"
+    }
+  },
+  {
+    "name": "S1897",
+    "price": 955,
+    "image": "/guns/s1897.png",
+    "details": {
+      "damage": "26",
+      "type": "Shotgun"
+    }
+  },
+  {
+    "name": "S686",
+    "price": 1270,
+    "image": "/guns/s686.png",
+    "details": {
+      "damage": "26",
+      "type": "Shotgun"
+    }
+  },
+  {
+    "name": "Sawed-Off",
+    "price": 1100,
+    "image": "/guns/sawed_off.png",
+    "details": {
+      "damage": "72",
+      "type": "Shotgun"
+    }
+  },
+  {
+    "name": "R45",
+    "price": 700,
+    "image": "/guns/r45.png",
+    "details": {
+      "damage": "55",
+      "type": "Pistol"
+    }
+  },
+  {
+    "name": "Nagant M1895",
+    "price": 349,
+    "image": "/guns/r1895.png",
+    "details": {
+      "damage": "55",
+      "type": "Pistol"
+    }
+  },
+  {
+    "name": "m249",
+    "price": 4089,
+    "image": "/guns/m249.png",
+    "details": {
+      "damage": "45",
+      "type": "MG"
+    }
+  },
+  {
+    "name": "Crossbow",
+    "price": 579,
+    "image": "/guns/crossbow.png",
+    "details": {
+      "damage": "105",
+      "type": "Crossbow"
+    }
+  },
+  {
+    "name": "S12K",
+    "price": 2730,
+    "image": "/guns/s12k.png",
+    "details": {
+      "damage": "24",
+      "type": "Shotgun"
+    }
+  },
+  {
+    "name": "Mortar",
+    "price": 1999,
+    "image": "/guns/mortar.png",
+    "details": {
+      "damage": "120",
+      "type": "Launcher"
+    }
+  },
+  {
+    "name": "M79",
+    "price": 1619,
+    "image": "/guns/m79.png",
+    "details": {
+      "damage": "110",
+      "type": "Launcher"
+    }
+  },
+  {
+    "name": "Panzerfaust",
+    "price": 950,
+    "image": "/guns/panzerfaust.png",
+    "details": {
+      "damage": "80",
+      "type": "Launcher"
+    }
+  },
+  {
+    "name": "Stun Gun",
+    "price": 1099,
+    "image": "/guns/stun_gun.png",
+    "details": {
+      "damage": "42",
+      "type": "Electroshock"
+    }
+  },
+  {
+    "name": "Crowbar",
+    "price": 25,
+    "image": "/guns/crowbar.png",
+    "details": {
+      "damage": "25",
+      "type": "Melee"
+    }
+  },
+  {
+    "name": "Pan",
+    "price": 30,
+    "image": "/guns/pan.png",
+    "details": {
+      "damage": "35",
+      "type": "Melee"
+    }
+  },
+  {
+    "name": "Machete",
+    "price": 40,
+    "image": "/guns/machete.png",
+    "details": {
+      "damage": "45",
+      "type": "Melee"
+    }
+  },
+  {
+    "name": "Pickaxe",
+    "price": 35,
+    "image": "/guns/pickaxe.png",
+    "details": {
+      "damage": "40",
+      "type": "Melee"
+    }
+  },
+  {
+    "name": "Sickle",
+    "price": 20,
+    "image": "/guns/sickle.png",
+    "details": {
+      "damage": "30",
+      "type": "Melee"
+    }
+  },
+  {
+    "name": "Smoke Grenade",
+    "price": 50,
+    "image": "/guns/smoke_grenade.png",
+    "details": {
+      "damage": "0",
+      "type": "Tactical"
+    }
+  },
+  {
+    "name": "Stun Grenade",
+    "price": 49,
+    "image": "/guns/stun_grenade.png",
+    "details": {
+      "damage": "0",
+      "type": "Tactical"
+    }
+  },
+  {
+    "name": "Frag Grenade",
+    "price": 50,
+    "image": "/guns/frag_grenade.png",
+    "details": {
+      "damage": "80",
+      "type": "Lethal"
+    }
+  },
+  {
+    "name": "Molotov Cocktail",
+    "price": 65,
+    "image": "/guns/molotov_cocktail.png",
+    "details": {
+      "damage": "60",
+      "type": "Lethal"
+    }
+  },
+  {
+    "name": "Sticky Bomb",
+    "price": 59,
+    "image": "/guns/sticky_bomb.png",
+    "details": {
+      "damage": "75",
+      "type": "Lethal"
+    }
+  },
+  {
+    "name": "C4",
+    "price": 59,
+    "image": "/guns/c4.png",
+    "details": {
+      "damage": "95",
+      "type": "Lethal"
+    }
+  },
+  {
+    "name": "BZ Grenade",
+    "price": 50,
+    "image": "/guns/bz_grenade.png",
+    "details": {
+      "damage": "0",
+      "type": "Tactical"
+    }
+  },
+  {
+    "name": "Decoy Grenade",
+    "price": 50,
+    "image": "/guns/decoy_grenade.png",
+    "details": {
+      "damage": "0",
+      "type": "Tactical"
+    }
+  }
+]
